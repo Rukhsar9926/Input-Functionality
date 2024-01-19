@@ -13,6 +13,7 @@ const Form = () => {
 //fghjklfghjk
 
         setfname(e.target.value)
+        console.log(fname)
     };
 
 
