@@ -10,8 +10,8 @@ const Form = () => {
 
     const handleChange = e => {
         
+//fghjklfghjk
 
-        
         setfname(e.target.value)
     };
 
