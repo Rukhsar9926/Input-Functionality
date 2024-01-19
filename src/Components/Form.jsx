@@ -9,6 +9,9 @@ const Form = () => {
     const [display, setDisplay] = useState("");
 
     const handleChange = e => {
+        
+
+        
         setfname(e.target.value)
     };
 
